@@ -1,0 +1,28 @@
+/* Footer.css */
+
+.Footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 60px 0;
+  }
+  
+  .Footer h5 {
+    color: #ffffff;
+  }
+  
+  .Footer p {
+    color: #ffffff;
+  }
+  
+  .Footer a {
+    color: #ffffff;
+  }
+  
+  .Footer a:hover {
+    color: red;
+    
+  }
+  
+  a{
+    text-decoration: none;
+  }

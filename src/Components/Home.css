@@ -1,0 +1,22 @@
+.Home{
+    margin-top: 60px;
+}
+.bg-custom {
+    background-color: #3c6092; /* Lighter shade of blue */
+  }
+
+
+  .wavy-text {
+    display: inline-block;
+    position: relative;
+    color: #3c6092;
+    text-decoration: underline;
+    text-decoration-color:#3c6092; /* Set underline color to blue */
+    text-decoration-style: wavy; /* Set wavy underline style */
+  }
+  
+
+
+
+
+ 
